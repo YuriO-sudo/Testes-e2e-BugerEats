@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "name": "front",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.5.2",
+    "cypress": "10.3.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-postgresql": "^1.0.8",
+    "dotenv": "^16.0.2",
+    "eslint": "^8.23.0",
+    "eslint-plugin-cucumber": "^2.0.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "faker-br": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
